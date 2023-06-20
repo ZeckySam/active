@@ -1,0 +1,14 @@
+.rotating-class{
+width: 120px;
+height: 120px;
+border-radius: 4px;
+background-color: rgb(151, 147, 147);
+margin: auto;
+text-align: center;
+border-width: 10px;
+box-shadow: 0 16px 15px 0 rgba(21, 8, 134, 0.9);
+font-family: 'Courier New', Courier, monospace;
+
+
+}
+

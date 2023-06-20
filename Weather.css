@@ -1,0 +1,20 @@
+
+.container1{
+    position: absolute;
+    width: 40%;
+    background-color:rgb(240, 246, 249);
+    height: 300px;
+    right: 45px;
+    top: 3030px;
+}
+.content{
+    position: absolute;
+    height: 240px;
+    margin: auto;
+    width: 360px;
+    left: 30px;
+    background-color: rgb(244, 235, 235);
+    border-radius: 4px;
+    top: 30px;
+    box-shadow: 0 10px 16px 0 rgba(20, 1, 1, 0.1);
+}
